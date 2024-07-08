@@ -8,7 +8,9 @@ This is because GUI  tools house the exploit pppwn which is known by security so
 # Installing dependencies Python   
 Ignore if you only want to run the C++ version   
 1. Take notice of the needed boxes that need to be checked for Python to function properly   
-2. Download the latest Python installer from the link in the 1.¦¦Î¦python txt  or https://www.python.org/downloads/windows/     
+2. Download the latest Python installer from the link in the 1.¦¦Î¦python txt  or https://www.python.org/downloads/windows/       
+     
+	 
 3 Run the *2* Batch files    
 4. Download and install npcap from the link in the 4.¦¦Î¦npcap txt or https://npcap.com/dist/npcap-1.79.exe    
     
