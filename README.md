@@ -55,6 +55,12 @@ On your PS4
 6. Choose **Do not use** for *Proxy Server*   
 7. Go back and be ready to press on *Test internet connection*        
 
+# Putting the goldhen payload on a usb   
+Format a usb drive to exFAT   
+In PPPwnGO settings choose *GoldHen to USB*    
+Find the folder for your firmware and from inside of it copy the goldhen.bin file onto your usb drive    
+
+
 # Running the exploit Python    
 From the 3rd dropdown menu choose *the PPPwn python* option    
 Press on *Back*   
@@ -74,7 +80,7 @@ close the cmd window and start over the exploit proccess including -
 From the 3rd dropdown menu choose *the PPPwn c++ (Default)* option      
 Press on *Back*   
 Press on the big green *GO* button   
-No new windows will open in the app a small terminal will start outputting data   
+No new windows will open but in the app a small terminal will start outputting data     
 IF i becomes stuck on any point such as    
 [*] Sending LCP configure request...    
 [*] Waiting for LCP configure ACK...    
