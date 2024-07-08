@@ -101,4 +101,4 @@ Downgrading can be done under certain conditions
      
 # GOLDHEN PPPWN support     
 **Current supported versions**       
-*9.00*  *9.60* *10.00 and 10.01* *11.00*             
+*9.00*  *9.60* *10.00 10.01* and *11.00*             
