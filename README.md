@@ -89,7 +89,11 @@ or
 [+] Scanning for corrupted object...failed    
 Press on *Stop* at the bottom middle and restart the proccess including -   
 7. Go back and be ready to press on *Test internet connection*       
-
+    
+# FAQ     
+# What is the latest exploitable firmware?     
+**11.00**       
+    
 # Can i downgrade if i am on *11.02-11.50*?     
 Downgrading can be done under certain conditions         
 1. You have not initialised the console on the current firmware        
