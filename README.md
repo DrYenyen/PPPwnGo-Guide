@@ -24,4 +24,10 @@ Ignore if you only want to run the C++ version
 1. Download and install npcap from the link in the 4.¦¦Î¦npcap txt or https://npcap.com/dist/npcap-1.79.exe        
 ![-](imgs/python1.JPG)        
 
-# Can i downgrade if i am on *11.02-11.50*?   
+# Can i downgrade if i am on *11.02-11.50*?     
+Downgrading can be done under certain conditions         
+1. You have not initialised the console on the current firmware        
+2. You have not reinstalled system firmware to fix Hard Drive issues        
+3. You have not replaced your Hard Drive and reinstalled the current system firmware         
+4. Your Syscon must be A0X-COLX (X=Digits on your Syscon)       
+**You can watch a full guide by [MODDED WARFARE](https://www.youtube.com/watch?v=JxeSP1PJtEs&t=764s)**        
