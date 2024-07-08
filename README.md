@@ -66,9 +66,14 @@ IF i becomes stuck on any point such as
 [+] Heap grooming...     
 or   
 [+] Scanning for corrupted object...failed   
-close the cmd window and start over the exploit proccess including - 7. Go back and be ready to press on *Test internet connection*       
+close the cmd window and start over the exploit proccess including -       
+7. Go back and be ready to press on *Test internet connection*       
+     
+     
 # Running the exploit C++    
- 
+From the 3rd dropdown menu choose *the PPPwn c++ (Default)* option      
+Press on *Back*   
+Press on the big green *GO* button   
  
 
 
