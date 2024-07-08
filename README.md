@@ -96,4 +96,9 @@ Downgrading can be done under certain conditions
 2. You have not reinstalled system firmware to fix Hard Drive issues        
 3. You have not replaced your Hard Drive and reinstalled the current system firmware         
 4. Your Syscon must be A0X-COLX (X=Digits on your Syscon)       
-**You can watch a full guide by [MODDED WARFARE](https://www.youtube.com/watch?v=JxeSP1PJtEs&t=764s)**        
+**You can watch a full guide by [MODDED WARFARE](https://www.youtube.com/watch?v=JxeSP1PJtEs&t=764s)**          
+
+     
+# GOLDHEN PPPWN support     
+**Current supported versions**       
+*9.00*  *9.60* *10.00 and 10.01* *11.00*             
