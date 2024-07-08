@@ -4,7 +4,8 @@ Download and unzip [PPPwnGo](https://github.com/PSGO/PPPwnGo/releases/tag/v2.6.3
 1. If your browser stops the download keep the file   
 2. if your antivirus flags any files allow them through  
 This is because GUI  tools house the exploit pppwn which is known by security software https://hackerone.com/reports/2177925   
-![-](imgs/python0.JPG)    
+![-](imgs/python0.JPG)  
+# Go inside the Python! folder      
 ![-](imgs/python1.JPG)    
     
 
