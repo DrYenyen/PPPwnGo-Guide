@@ -43,7 +43,7 @@ Python - Opens the Python folder
 Debug - Opens the recent terminal outputs    
 PPPwn - Opens The TheOfficialFloW github pppwn page   
 PPPwnGo - Opens the PPPwnGo github   
-![-](imgs/2.JPG)    
+![-](imgs/3.JPG)    
 
 
 
