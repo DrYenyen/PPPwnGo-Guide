@@ -43,7 +43,34 @@ Python - Opens the Python folder
 Debug - Opens the recent terminal outputs    
 PPPwn - Opens The TheOfficialFloW github pppwn page   
 PPPwnGo - Opens the PPPwnGo github   
-![-](imgs/3.JPG)    
+![-](imgs/3.JPG)     
+     
+# Setting up the PS4 internet connection  
+On your PS4  
+1. Go to **Settings** and then **Network**   
+2. Select **Set Up Internet connection** and choose Use a **LAN Cable**  
+3. Choose **Custom** setup and choose **PPPoE** for IP Address Settings  
+4. Put in *ppp* as **Username** and ***Password***  (Or the previosly chosen Username and Password if defaults were changed)  
+5. Choose **Automatic** for *DNS Settings* and *MTU Settings*
+6. Choose **Do not use** for *Proxy Server*   
+7. Go back and be ready to press on *Test internet connection*        
+
+# Running the exploit Python    
+From the 3rd dropdown menu choose *the PPPwn python* option    
+Press on *Back*   
+Press on the big green *GO* button   
+A cmd window will open and the exploit will start     
+IF i becomes stuck on any point such as    
+[*] Sending LCP configure request...    
+[*] Waiting for LCP configure ACK...    
+[+] Heap grooming...     
+or   
+[+] Scanning for corrupted object...failed   
+close the cmd window and start over the exploit proccess including - 7. Go back and be ready to press on *Test internet connection*       
+# Running the exploit C++    
+ 
+ 
+
 
 
 
