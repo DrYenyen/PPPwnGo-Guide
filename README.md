@@ -22,7 +22,28 @@ Ignore if you only want to run the C++ version
     
 # Installing dependencies C++  
 1. Download and install npcap from the link in the 4.¦¦Î¦npcap txt or https://npcap.com/dist/npcap-1.79.exe        
-![-](imgs/python1.JPG)        
+![-](imgs/python1.JPG)           
+     
+# GUI layout       
+Run PPPwnGo application as admin   
+At the bottom middle PS4-11.00 is from where you can open the settings menu  
+1. The first dropdown menu is used to choose the firmware version of the exploit you want to use they range *7.00* to *11.00*     
+NOTICE *9.00 9.60 10.00 10.01 11.00* are Goldhen the rest are PS4HEN VTX    
+2. The second dropdown menu is used to set the ethernet adapter on your computer   
+3. The third dropdown menu is used to choose which version of pppwn to run     
+Choose between   
+1. C++ (default)  
+2. PPPwn Go rewrite   
+3. Python  
+Goldhen to USB - Opens the folder which has Goldhen payloads    
+Network - Opens your network settings    
+Python - Opens the Python folder    
+Debug - Opens the recent terminal outputs    
+PPPwn - Opens The TheOfficialFloW github pppwn page   
+PPPwnGo - Opens the PPPwnGo github   
+
+
+
 
 # Can i downgrade if i am on *11.02-11.50*?     
 Downgrading can be done under certain conditions         
