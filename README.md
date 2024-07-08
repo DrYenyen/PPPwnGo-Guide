@@ -26,7 +26,9 @@ Ignore if you only want to run the C++ version
      
 # GUI layout       
 Run PPPwnGo application as admin   
+![-](imgs/1.JPG)     
 At the bottom middle PS4-11.00 is from where you can open the settings menu  
+![-](imgs/2.JPG)     
 1. The first dropdown menu is used to choose the firmware version of the exploit you want to use they range *7.00* to *11.00*     
 NOTICE *9.00 9.60 10.00 10.01 11.00* are Goldhen the rest are PS4HEN VTX    
 2. The second dropdown menu is used to set the ethernet adapter on your computer   
@@ -41,7 +43,7 @@ Python - Opens the Python folder
 Debug - Opens the recent terminal outputs    
 PPPwn - Opens The TheOfficialFloW github pppwn page   
 PPPwnGo - Opens the PPPwnGo github   
-
+![-](imgs/2.JPG)    
 
 
 
