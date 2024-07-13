@@ -111,4 +111,10 @@ Downgrading can be done under certain conditions
 # PS4HEN PPPWN support       
 *7.00* to *11.00*      
 Although it has less features than goldhen        
-![-](imgs/vtx.png)              	
+![-](imgs/vtx.png)         
+     
+# Other guides       
+# 1. [How to set up Raspberry-Pi on Windows for PPPwn](https://github.com/DrYenyen/PPPwn-Setup-Guide-For-Raspberry-Pi)          
+# 2. [How to manually update PS4 firmware](https://github.com/DrYenyen/PS4-Firware-Update-Guide)             
+# 3. [How to install FPKGS](https://github.com/DrYenyen/How-To-Install-PS4-FPKGS)           
+# 4. [How to set up PPPwn on a OpenWRT compatible router(by FalsePhilosopher)](https://github.com/FalsePhilosopher/PPPwnWRT)          	 
