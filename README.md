@@ -2,7 +2,7 @@
 This guide is only for Windows    
 Download and unzip [PPPwnGo](https://github.com/PSGO/PPPwnGo/releases/tag/v2.6.3-0617)       
 1. If your browser stops the download keep the file   
-2. if your antivirus flags any files allow them through  
+2. if Windows Defender flags the zip or any files allow them through 
 This is because GUI  tools house the exploit pppwn which is known by security software https://hackerone.com/reports/2177925       
 # Go inside the Python! folder     
 ![-](imgs/python0.JPG)  
