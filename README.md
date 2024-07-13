@@ -33,8 +33,7 @@ At the bottom middle PS4-11.00 is from where you can open the settings menu
 NOTICE *9.00 9.60 10.00 10.01 11.00* are Goldhen the rest are PS4HEN VTX    
 2. The second dropdown menu is used to set the ethernet adapter on your computer   
 3. The third dropdown menu is used to choose which version of pppwn to run     
-Choose between      
-    
+Choose between   
 1. C++ (default)  
 2. PPPwn Go rewrite   
 3. Python  
