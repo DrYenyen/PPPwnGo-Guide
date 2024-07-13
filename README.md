@@ -63,7 +63,7 @@ Then plug the usb into your PS4
 
 
 # Running the exploit Python    
-From the 3rd dropdown menu choose *the PPPwn python* option    
+From the 3rd dropdown menu in settings choose *the PPPwn python* option    
 Press on *Back*   
 Press on the big green *GO* button   
 A cmd window will open and the exploit will start     
@@ -78,7 +78,7 @@ close the cmd window and start over the exploit proccess including -
      
      
 # Running the exploit C++    
-From the 3rd dropdown menu choose *the PPPwn c++ (Default)* option      
+From the 3rd dropdown menu in settings choose *the PPPwn c++ (Default)* option      
 Press on *Back*   
 Press on the big green *GO* button   
 No new windows will open but in the app a small terminal will start outputting data     
