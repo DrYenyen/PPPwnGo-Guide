@@ -109,6 +109,6 @@ Downgrading can be done under certain conditions
 *9.00*  *9.60* *10.00 10.01* and *11.00*           
     
 # PS4HEN PPPWN support       
-*7.00* to *11.00*   excluding already compatible goldhen firmwares      
+*7.00* to *11.00*      
 Although it has less features than goldhen        
 ![-](imgs/vtx.png)              	
