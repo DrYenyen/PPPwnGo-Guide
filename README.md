@@ -58,7 +58,8 @@ On your PS4
 # Putting the goldhen payload on a usb   
 Format a usb drive to exFAT   
 In PPPwnGO settings choose *GoldHen to USB*    
-Find the folder for your firmware and from inside of it copy the goldhen.bin file onto your usb drive      
+Find the folder for your firmware and from inside of it copy the goldhen.bin file onto your usb drive  for Goldhen
+Find the folder for your firmware and from inside of it copy the payload.bin file onto your usb drive  For VTX   
 Then plug the usb into your PS4    
 
 
