@@ -55,11 +55,11 @@ On your PS4
 6. Choose **Do not use** for *Proxy Server*   
 7. Go back and be ready to press on *Test internet connection*        
 
-# Putting the goldhen payload on a usb   
+# Putting the goldhen or VTX payload on a usb   
 Format a usb drive to exFAT   
 In PPPwnGO settings choose *GoldHen to USB*    
-Find the folder for your firmware and from inside of it copy the goldhen.bin file onto your usb drive  for Goldhen
-Find the folder for your firmware and from inside of it copy the payload.bin file onto your usb drive  For VTX   
+Find the folder for your firmware and from inside of it copy the goldhen.bin file onto your usb drive  for Goldhen         
+Find the folder for your firmware and from inside of it copy the payload.bin file onto your usb drive  For VTX      
 Then plug the usb into your PS4    
 
 
