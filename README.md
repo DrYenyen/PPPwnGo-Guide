@@ -79,7 +79,7 @@ close the cmd window and start over the exploit proccess including -
      
      
 # Running the exploit C++    
-From the 3rd dropdown menu in settings choose *the PPPwn c++ (Default)* option      
+From the 3rd dropdown menu in settings choose *the PPPwn c++ (Stable)* option      
 Press on *Back*   
 Press on the big green *GO* button   
 No new windows will open but in the app a small terminal will start outputting data     
@@ -88,9 +88,21 @@ IF it becomes stuck on any point such as
 [*] Waiting for LCP configure ACK...    
 [+] Heap grooming...     
 or   
-[+] Scanning for corrupted object...failed    
 Press on *Stop* at the bottom middle and restart the proccess including -   
-7. Go back and be ready to press on *Test internet connection*       
+7. Go back and be ready to press on *Test internet connection*          
+      
+# Running the exploit C++ if you are getting console crashes or infinite loop       
+From the 3rd dropdown menu in settings choose *the PPPwn c++ (Beta)* option      
+Press on *Back*   
+Press on the big green *GO* button   
+No new windows will open but in the app a small terminal will start outputting data     
+IF it becomes stuck on any point such as    
+[*] Sending LCP configure request...    
+[*] Waiting for LCP configure ACK...    
+[+] Heap grooming...     
+or         
+Press on *Stop* at the bottom middle and restart the proccess including -     
+7. Go back and be ready to press on *Test internet connection*           
     
 # FAQ     
 # What is the latest exploitable firmware?     
